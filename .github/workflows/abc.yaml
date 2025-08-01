@@ -9,5 +9,5 @@ jobs:
   say-hello:
     runs-on: amit
     steps:
-      - name: Print a welcome message
+      - name: Print a welcome message n
         run: ls 
