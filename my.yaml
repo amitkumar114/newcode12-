@@ -10,4 +10,4 @@ jobs:
     runs-on: amit
     steps:
       - name: Print a welcome message
-        run: ls 
+        run: ls -ltr
