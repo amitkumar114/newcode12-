@@ -7,7 +7,7 @@ on:
 
 jobs:
   say-hello:
-    runs-on: amit
+    runs-on: label-1
     steps:
       - name: Print a welcome message n
         run: ls 
