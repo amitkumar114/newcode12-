@@ -10,4 +10,4 @@ jobs:
     runs-on: amit
     steps:
       - name: Print a welcome message
-        run: echo "🎉 Hello from GitHub Actions!" 
+        run: ls -ltr
